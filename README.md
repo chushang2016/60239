@@ -1,4 +1,4 @@
-#   60239_ssm旅游论坛
+![1](https://github.com/user-attachments/assets/ad08f11a-5d8b-4037-99eb-634d58789cf3)#   60239_ssm旅游论坛
 
 #   项目资料包含：
 *    前后端源代码+SQL脚本
@@ -10,7 +10,7 @@
 #   项目资料获取方式
 *   需要资料或者有任何问题的加QQ：2684634017
 
-*   项目源代码下载地址： http://blog.codercode.cn/#/home/goodDetail?goodId=60239
+*   项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=60239
 
 
 *  5000+项目及演示视频 ：https://www.yuque.com/codercode/cqaxlg/wznt5a2m92ay93gz?singleDoc#lND3 《毕设资源大全》
